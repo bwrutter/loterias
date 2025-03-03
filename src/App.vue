@@ -1,10 +1,8 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <Content />
     </v-main>
-
-    <AppFooter />
   </v-app>
 </template>
 
