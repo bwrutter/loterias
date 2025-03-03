@@ -41,7 +41,6 @@
 
     <v-card-title>Números que mais foram sorteados:</v-card-title>
 
-    <!-- Exibe os números com a frequência -->
     <v-card class="mx-auto" max-width="300">
       <v-list>
         <v-list-item v-for="item in frequenciaNumeros" :key="item.numero">
