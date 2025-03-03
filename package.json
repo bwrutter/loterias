@@ -1,6 +1,5 @@
 {
   "name": "loterias",
-  "private": true,
   "type": "module",
   "version": "0.0.0",
   "scripts": {
@@ -10,6 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
+    "axios": "^1.8.1",
     "roboto-fontface": "*",
     "vue": "^3.4.31",
     "vuetify": "^3.6.14"
